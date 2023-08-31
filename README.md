@@ -1,1 +1,1 @@
-<img src = "https://stefanieborges.github.io/stefanieborges/Pink%20Minimalist%20Watercolor%20Background%20%20Linkedin%20Banner.png" height = "100px" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
