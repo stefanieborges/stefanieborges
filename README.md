@@ -1,1 +1,1 @@
-<img src = "https://www.canva.com/design/DAFtIPD0wYE/zu_waaI3oLIHy1loS5bjWQ/view?utm_content=DAFtIPD0wYE&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"/>
+<img src = "https://stefanieborges.github.io/stefanieborges/Pink%20Minimalist%20Watercolor%20Background%20%20Linkedin%20Banner.png"/>
